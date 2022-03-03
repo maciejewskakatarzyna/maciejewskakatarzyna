@@ -1,2 +1,3 @@
-# Hi, it's Kasia! Check out my [blog](https://kasiamaciejewska.pl/)
+# Hi, it's Kasia! 👋
 
+## Check out my [blog](https://kasiamaciejewska.pl/)!
